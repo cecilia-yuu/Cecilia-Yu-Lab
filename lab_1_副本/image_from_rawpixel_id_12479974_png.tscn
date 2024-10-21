@@ -1,0 +1,9 @@
+[gd_scene load_steps=2 format=3 uid="uid://b4k26ygerxfq5"]
+
+[ext_resource type="Texture2D" uid="uid://8lh5kpk5xmru" path="res://image-from-rawpixel-id-12479974-png.png" id="1_wfe03"]
+
+[node name="Image-from-rawpixel-id-12479974-png" type="Sprite2D"]
+position = Vector2(454, 262)
+rotation = 4.36856
+scale = Vector2(0.0592378, 0.0592378)
+texture = ExtResource("1_wfe03")

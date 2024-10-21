@@ -10,8 +10,8 @@ config_version=5
 
 [application]
 
-config/name="lab 1 review"
-run/main_scene="res://player.tscn"
+config/name="Lab_1"
+run/main_scene="res://node_2d.tscn"
 config/features=PackedStringArray("4.3", "GL Compatibility")
 config/icon="res://icon.svg"
 
